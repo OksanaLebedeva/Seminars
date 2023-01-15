@@ -1,0 +1,15 @@
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\bin\Debug\net6.0\Example02_CheckSquares.exe
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\bin\Debug\net6.0\Example02_CheckSquares.deps.json
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\bin\Debug\net6.0\Example02_CheckSquares.runtimeconfig.json
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\bin\Debug\net6.0\Example02_CheckSquares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\bin\Debug\net6.0\Example02_CheckSquares.pdb
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\refint\Example02_CheckSquares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.pdb
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\Example02_CheckSquares.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example02_CheckSquares\obj\Debug\net6.0\ref\Example02_CheckSquares.dll
