@@ -1,0 +1,15 @@
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\bin\Debug\net6.0\Example01_Squares.exe
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\bin\Debug\net6.0\Example01_Squares.deps.json
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\bin\Debug\net6.0\Example01_Squares.runtimeconfig.json
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\bin\Debug\net6.0\Example01_Squares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\bin\Debug\net6.0\Example01_Squares.pdb
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\refint\Example01_Squares.dll
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.pdb
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\Example01_Squares.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Documents\Private\Seminars\Seminar01\Example01_Squares\obj\Debug\net6.0\ref\Example01_Squares.dll
